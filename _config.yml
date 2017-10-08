@@ -6,7 +6,7 @@
 name: Paul Ko
 
 # Short bio or description (displayed in the header)
-description: Software Developer from Seoul and Seattle.
+description: Learnings about Software Development and Machine Learning.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/20571120?v=4&s=400&u=bb1d65a2386df13ce302501c7e1b1a8aff02eaf4
@@ -18,15 +18,15 @@ avatar: https://avatars2.githubusercontent.com/u/20571120?v=4&s=400&u=bb1d65a238
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: seongwoon.ko@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: paulkoooo
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
